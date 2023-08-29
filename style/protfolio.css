@@ -76,7 +76,7 @@ main{
     border-radius: 20px;
     margin-top: 10px;
     padding-top: 10px;
-    padding-right: 100px;
+    padding-right: 80px;
     
 }
 
@@ -88,6 +88,8 @@ main{
     border-radius: 150px 150px 0px 0 ;
     padding-top: 70px;
     height: 460px;
+    width: 320px;
+   
     
     
 }
@@ -101,6 +103,8 @@ main{
     align-items: center;
     padding-top: 80px;
     height: 450px;
+    width: 320px;
+ 
 
 }
 
@@ -113,6 +117,8 @@ main{
     align-items: center;
     padding-top: 60px;
     height: 470px;
+    width: 320px;
+    
 }
 .tex-decoretion{
     padding-top: 30px;
@@ -237,4 +243,23 @@ background-position: center;
    margin-top: 50px;
    padding-top: 50px;
    padding-bottom: 70px;
+}
+
+
+
+/* Subscribe section */
+.Subscribe-container{
+    justify-content: center;
+    text-align: center;
+    background: rgb(225, 202, 202);
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+
+.email-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
 }
