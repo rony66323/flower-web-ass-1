@@ -64,3 +64,77 @@ main{
     text-align: center;
     font-size: 16px;
 }
+
+/* pink section */
+
+.pink-container{
+    display: flex;
+    justify-content: space-between;
+
+    gap: 20px;
+    border: 2px;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    
+}
+
+.pink-6{
+    background: rgb(232, 121, 203);
+   
+    gap: 20px;
+    border-top: 2px;
+    border-radius: 150px 150px 0px 0 ;
+    padding-top: 70px;
+    height: 460px;
+    
+    
+}
+
+.pink-5{
+    background: cornflowerblue;
+   
+    gap: 20px;
+    border-top: 2px;
+    border-radius: 150px 150px 0px 0 ;
+    align-items: center;
+    padding-top: 80px;
+    height: 450px;
+
+}
+
+.pink-7{
+    background: rgb(178, 177, 173);
+    
+    gap: 20px;
+    border-top: 2px;
+    border-radius: 150px 150px 0px 0 ;
+    align-items: center;
+    padding-top: 60px;
+    height: 470px;
+}
+.tex-decoretion{
+    padding-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+.tex-item{
+    padding-top: 80px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tex-pink{
+ text-align: center;
+ text-decoration: underline;
+}
+
+/* support-container section */
+.support-container{
+    display: flex;
+    text-align: center;
+   
+}
+.free{
+    gap: 10px;
+}
