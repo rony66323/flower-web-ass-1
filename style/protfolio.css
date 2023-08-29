@@ -42,3 +42,25 @@ padding:10px 15px ;
     width: 350px;
    
 }
+
+/* main section style */
+
+main{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.featured{
+    padding: 120px;
+}
+.section-title{
+    text-align: center;
+    font-size: 30px;
+    font-family: open Sans;
+
+}
+
+.section-descriptin{
+    text-align: center;
+    font-size: 16px;
+}
