@@ -3,6 +3,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 150px;
 }
 nav > ul {
     display: flex;
@@ -23,6 +24,21 @@ border: 0;
 font-size:20px;
 color: aliceblue;
 padding:10px 15px ;
+}
 
+/* header style */
+.header{
+   background-color: rgb(229, 164, 235);
+  
+}
+.banner{
+    padding:20px 20px 0px  130px ;
+    display: flex;
+    
+}
 
+.banner .profile{
+    height: 400px;
+    width: 350px;
+   
 }
