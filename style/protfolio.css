@@ -214,3 +214,27 @@ padding-bottom: 20px;
 .golap{
     width: 260px;
 }
+
+/* baground image section */
+
+/* .container{
+background-image: url('rectangle.jpg');
+height: 100vh;
+background-repeat: no-repeat;
+width: 100%;
+background-size: cover;
+background-position: center;
+} */
+
+
+/* footer section */
+
+.footer-container{
+    text-align: center;
+    justify-content: center;
+    background: black;
+   color: aliceblue;
+   margin-top: 50px;
+   padding-top: 50px;
+   padding-bottom: 70px;
+}
