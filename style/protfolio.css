@@ -76,6 +76,7 @@ main{
     border-radius: 20px;
     margin-top: 10px;
     padding-top: 10px;
+    padding-right: 100px;
     
 }
 
@@ -133,8 +134,19 @@ main{
 .support-container{
     display: flex;
     text-align: center;
+    justify-content: space-between;
+    background: rgb(232, 230, 221);
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
    
 }
+.Delivery{
+    gap: 5px;
+}
+.fresh-flowers{
+    gap: 5px;
+}
 .free{
-    gap: 10px;
+    gap: 5px;
 }
