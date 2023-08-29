@@ -176,3 +176,41 @@ padding-bottom: 20px;
 .tex-primary{
     color: chocolate;
 }
+
+/* instagram-container */
+
+.instagram-container{
+    justify-content: center;
+    text-align: center;
+    padding-top: 60px;
+   
+}
+
+/* flower-container */
+
+.flower-container{
+    display: flex;
+    gap: 20px; ;
+    padding-top: 20px;
+}
+
+.joba{
+    width: 260px;
+
+
+}
+
+.noyontara{
+    width: 260px;
+
+
+}
+
+.kosmos{
+    width: 260px;
+
+}
+
+.golap{
+    width: 260px;
+}
