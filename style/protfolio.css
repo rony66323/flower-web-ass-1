@@ -1,0 +1,28 @@
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav > ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 40px;
+}
+
+/* common style */
+
+.btn-primary{
+border-radius: 5px;
+background: rgb(229, 152, 10);
+border: 0;
+font-size:20px;
+color: aliceblue;
+padding:10px 15px ;
+
+
+}
